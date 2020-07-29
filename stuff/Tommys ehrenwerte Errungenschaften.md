@@ -1,0 +1,2 @@
+# Links zu von mir gefundenen Tommys ehrenwerte Errungenschaften:
+- [TEE #10](https://www.youtube.com/watch?v=1qUiTZVDQoY) ([dazugehöriges Video](https://www.youtube.com/watch?v=el8xP1TPOjI "Top 7 positive Nebeneffekte der Corona-Krise - Tommys tolle Toplisten"))
