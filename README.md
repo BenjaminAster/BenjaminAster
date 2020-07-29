@@ -1,9 +1,10 @@
-# Hi, I'm Benjamin Aster.
-## Welcome to my GitHub profile!
+
+
+### Hi, I'm Benjamin Aster. Welcome to my GitHub profile!
 
 Currently there are two repositories:
 - [BenjaminAster.github.io](https://github.com/BenjaminAster/BenjaminAster.github.io): contains all the files for my website [benjaminaster.github.io](https://benjaminaster.github.io).
-- [BenjaminAster](https://github.com/BenjaminAster/BenjaminAster): contains the files for my non-website stuff.
+- [BenjaminAster](https://github.com/BenjaminAster/BenjaminAster): contains the files for all my non-website stuff and the README you are currently reading.
 
 
 
