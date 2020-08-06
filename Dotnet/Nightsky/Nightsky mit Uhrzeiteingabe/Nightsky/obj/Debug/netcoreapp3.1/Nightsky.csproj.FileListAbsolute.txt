@@ -1,0 +1,133 @@
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\Nightsky_21.07.20\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v02\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\PlusKurse & Co\Coding Stars 2020\21.07.20_v03\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.exe
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.deps.json
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.json
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.runtimeconfig.dev.json
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\bin\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csprojAssemblyReference.cache
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.cache
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky_MarkupCompile.lref
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.g.resources
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.AssemblyInfo.cs
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.dll
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.pdb
+C:\Users\Benja\Documents - SSD\GitHub\BenjaminAster\Dotnet\Nightsky\Nightsky mit Uhrzeiteingabe\Nightsky\obj\Debug\netcoreapp3.1\Nightsky.genruntimeconfig.cache
