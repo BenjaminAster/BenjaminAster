@@ -2,12 +2,6 @@
 
 ### Hi, I'm Benjamin Aster. Welcome to my GitHub profile!
 
-Currently there are two repositories:
-- [benjaminaster.com](https://github.com/BenjaminAster/benjaminaster.com): contains all the files for my website [benjaminaster.com](https://benjaminaster.com).
-- [BenjaminAster](https://github.com/BenjaminAster/BenjaminAster): contains the files for all my non-website stuff and the README you are currently reading.
-
-
-
 <!--
 **BenjaminAster/BenjaminAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
