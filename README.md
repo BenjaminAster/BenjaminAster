@@ -1,8 +1,12 @@
 
+# Welcome! 👋
 
-### Hi, I'm Benjamin Aster. Welcome to my GitHub profile!
+You might want to check out **[benjaminaster.com](https://benjaminaster.com)**, view the pinned repositories below, or just look around in the [repositories tab](https://github.com/BenjaminAster?tab=repositories).
+
+[![BenjaminAster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminAster&show_icons=true&theme=tokyonight)](https://github.com/BenjaminAster#:~:text=contributions%20in%20the%20last%20year)
 
 <!--
+
 **BenjaminAster/BenjaminAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
