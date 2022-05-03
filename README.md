@@ -3,7 +3,9 @@
 
 You might want to check out **[benjaminaster.com](https://benjaminaster.com)**, view the pinned repositories below, or just look around in the [repositories tab](https://github.com/BenjaminAster?tab=repositories).
 
-[![BenjaminAster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminAster&show_icons=true&theme=tokyonight)](https://github.com/BenjaminAster#:~:text=contributions%20in%20the%20last%20year)
+[![BenjaminAster's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminAster&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/BenjaminAster#:~:text=contributions%20in%20the%20last%20year)
+
+[![BenjaminAster's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminAster&layout=compact&theme=github_dark&hide_border=true)](https://github.com/BenjaminAster#:~:text=contributions%20in%20the%20last%20year)
 
 <!--
 
