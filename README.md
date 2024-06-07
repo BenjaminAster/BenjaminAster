@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; inset: 0; block-size: 100dvb; inline-size: 100dvi; object-fit: cover; background-size: cover; background-image: url('https://raw.githubusercontent.com/BenjaminAster/benjaminaster.com/main/assets/salzburg_winter_nacht.webp');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; inset: 0; block-size: 100dvb; inline-size: 100dvi; object-fit: cover; opacity: 50%; background-size: cover; background-image: url('https://raw.githubusercontent.com/BenjaminAster/benjaminaster.com/main/assets/salzburg_winter_nacht.webp');]{x0000}$}
 ```
