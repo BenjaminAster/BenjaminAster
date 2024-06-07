@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset-inline-start: 50dvi; inset-block-start: 50dvb; inline-size: 80dvmin; block-size: 80dvmin; translate: -40dvmin -40dvmin; opacity: 1; background-size: 100% 100%; animation: 2s linear infinite rotate-keyframes, 1.5s linear infinite alternate fade-out; background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset-inline-start: 50dvi; inset-block-start: 50dvb; inline-size: 80dvmin; block-size: 80dvmin; translate: -40dvmin -40dvmin; opacity: 1; background-size: 100% 100%; animation: 2s linear infinite rotate-keyframes, 1.5s linear infinite alternate fade-out, 2.5s ease-in-out alternate infinite shrink-x; background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472');]{x0000}$}
 ```
 
