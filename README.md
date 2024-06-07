@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; width: 0%; position: fixed; inset: 0; opacity: 100%; background-size: 100% 100%; animation: 1.5s linear infinite alternate grow-x; background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; inset-inline-start: 0; inset-block-start: 0; inline-size: 100%; block-size: 100%; opacity: 1; background-size: 100% 100%; animation: 2s linear infinite rotate-keyframes, 1.5s linear infinite cm-blink; background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472');]{x0000}$}
 ```
 
