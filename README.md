@@ -53,6 +53,8 @@ background-image: url('https://raw.githubusercontent.com/gist/moonheekim0118/bcb
 "]{}
 -->
 
+<!--
 ```math
 \mmlToken{mi}[fontfamily="as&dash;df&semi;&NewLine;&semi;pointer-events&colon;none"]{+}
 ```
+-->
