@@ -45,7 +45,7 @@ width: 80dvmin;
 background-position: 0 0;
 height: 80dvmin;
 translate: -50% -50%;
-opacity: 1;
+opacity: 100%;
 background-repeat: no-repeat;
 background-size: 100% 100%;
 animation:
@@ -62,11 +62,11 @@ z-index: -2;
 position: fixed;
 inset: 0;
 background-position: 0 0;
-opacity: 1;
+opacity: 50%;
 background-repeat: repeat;
 background-size: 20% auto;
 animation:
-	4s linear infinite sponsors-progress-animation;
+	6s linear infinite reverse sponsors-progress-animation;
 background-image: url('https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif');
 "]{}
 ```
