@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 -->
 
+<!--
+Credit to (although everyone steals it from each other so I don't know who is the original one):
+@iGerman00
+@djdisodo
+@rambiing
+and of course @cloud11665 for finding the original vuln
+-->
+
 ```math
 \mmlToken{ms}[fontfamily="
 githubplsdontfixthis;
