@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 -->
 
-
+```math
 \mmlToken{ms}[fontfamily="
-color:red;
+githubplsdontfixthis;
 pointer-events: none;
 z-index: 5;
 position: fixed;
@@ -46,5 +46,4 @@ animation:
 	1.5s ease-in-out alternate infinite shrink-x;
 background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472');
 "]{}
-
-
+```
