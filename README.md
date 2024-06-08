@@ -36,9 +36,7 @@ and of course @cloud11665 for finding the original vuln
 
 <!-- ;z-index:5;position:fixed;left:50dvi;top:50dvb;width:80dvmin; background-position:0 0; height: 80dvmin; translate: -50% -50%; opacity: 100%; background-repeat: no-repeat; background-size: 100% 100%; animation: 3.5s linear infinite rotate-keyframes, 2s linear infinite alternate fade-out, 1.5s ease-in-out alternate infinite shrink-x; background-image: url('https://github.com/BenjaminAster/BenjaminAster/assets/63414473/aeea2e9f-c28d-4953-9b27-8a26e1892472'); -->
 
-```math
-\mmlToken{ms}[fontfamily="githubplsdontfixthis&semi;&NewLine;&semi;pointer-events&colon;none"]{}
-
+<!-- 
 \mmlToken{ms}[fontfamily="
 githubplsdontfixthis;
 pointer-events: none;
@@ -53,4 +51,8 @@ animation:
 	8s linear infinite reverse sponsors-progress-animation;
 background-image: url('https://raw.githubusercontent.com/gist/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif');
 "]{}
+-->
+
+```math
+\mmlToken{mi}[fontfamily="as&dash;df&semi;&NewLine;&semi;pointer-events&colon;none"]{+}
 ```
